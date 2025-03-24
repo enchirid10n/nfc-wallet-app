@@ -29,7 +29,7 @@ A secure Android wallet powered by Firebase, Jetpack Compose, and NFC Tap-to-Pay
 - No sensitive info stored in cloud (yet)
 
 ## 🧑‍💻 Author
-Built by [You] 💻🧠 using Jake the AI Dev 🥷
+Built by enchirid10n 💻🧠 using Jake the AI Dev 🥷
 
 ## 🛡 License
 MIT
